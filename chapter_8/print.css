@@ -1,0 +1,4 @@
+/* 프린터 */
+        @media print {
+            body { background-color: green;}
+        }
